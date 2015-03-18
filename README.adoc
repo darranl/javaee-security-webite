@@ -1,0 +1,6 @@
+= JSR 375 Java EE Security API
+
+This is the API source for JSR 375
+
+ - *primary*: git://java.net/javaee-security-spec~api
+ - mirror: git@github.com:javaee-security-spec/javaee-security-api.git
